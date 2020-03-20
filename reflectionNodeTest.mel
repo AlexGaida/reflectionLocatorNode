@@ -1,0 +1,8 @@
+loadPlugin reflectionLocator1.py;
+createNode reflectionLocator;
+createNode locator;
+createNode locator;
+setAttr locator1.translate -type "double3" 1.0 1.0 0.0;
+connectAttr -f locator1.translate reflectionLocator1.input;
+connectAttr -f reflectionLocator1.output locator2.t;
+parent locator1 locator2 reflectionLocator1;
