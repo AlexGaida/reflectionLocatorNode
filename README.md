@@ -49,10 +49,12 @@ parent locator1 locator2 reflectionLocator1;
 
 ```
 
-## Resources used in finishing this plugin
+## Demo
+![Node Demo](./reflectionLocator.gif)
+
+## Resources
 ChadVernon, (CGCircuit) reflectionLocator C++ code
 
 Dilen Shah, (Viewport Code Template) https://dilenshah3d.wordpress.com/
 
-## Demo
-![Node Demo](./reflectionLocator.gif)
+Autodek Maya C++ Reference 2.0, https://help.autodesk.com/view/MAYAUL/2016/ENU/?guid=__cpp_ref_ui_draw_manager_2ui_draw_manager_8cpp_example_html
