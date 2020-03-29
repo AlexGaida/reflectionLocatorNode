@@ -57,4 +57,4 @@ ChadVernon, (CGCircuit) reflectionLocator C++ code
 
 Dilen Shah, (Viewport Code Template) https://dilenshah3d.wordpress.com/
 
-Autodek Maya C++ Reference 2.0, https://help.autodesk.com/view/MAYAUL/2016/ENU/?guid=__cpp_ref_ui_draw_manager_2ui_draw_manager_8cpp_example_html
+Autodek Maya C++ Reference, https://help.autodesk.com/view/MAYAUL/2016/ENU/?guid=__cpp_ref_ui_draw_manager_2ui_draw_manager_8cpp_example_html
