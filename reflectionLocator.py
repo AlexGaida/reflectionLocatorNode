@@ -23,7 +23,8 @@ def maya_useNewAPI():
 kPluginNodeName = "reflectionLocator"
 kPluginNodeClassification = "drawdb/geometry/reflectionLocator"
 kDrawRegistrantId = "reflectionNodePlugin"
-kPluginNodeId = OpenMaya.MTypeId(0x819890)
+# the node ID is valid block generated from Autodesk
+kPluginNodeId = OpenMaya.MTypeId(0x00134e40)
 
 
 # define local variables
